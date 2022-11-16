@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activitydua</string>
+    <string name="width">LEBAR</string>
+    <string name="height">TINGGI</string>
+    <string name="calculate">HITUNG</string>
+    <string name="result">HASIL</string>
+    <string name="length">PANJANG</string>
+</resources>
